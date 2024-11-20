@@ -12,3 +12,7 @@ Vou utilizar as procedures de INSERT para cada tabela criada para alcançar o ob
 Professor orientador: Wesley Neves.
 
 Como instalei o SQL Server: https://www.youtube.com/watch?v=QOXiRS1yWhE&t=14s
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
