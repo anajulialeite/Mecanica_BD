@@ -14,7 +14,7 @@ Professor orientador: Wesley Neves.
 
 ## Link útil
 
-Como instalei o <a href= "https://www.youtube.com/watch?v=ylFB4coxLjQ">SQL Server</a>
+Como instalei o <a href= "https://www.youtube.com/watch?v=tZs8ZPMvNzM&t=223s">SQL Server</a>
 
 # License
 
