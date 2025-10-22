@@ -16,6 +16,6 @@ Professor orientador: Wesley Neves.
 
 Como instalei o <a href= "https://www.youtube.com/watch?v=tZs8ZPMvNzM&t=223s">SQL Server</a>
 
-# License
+## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
