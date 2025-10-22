@@ -10,7 +10,7 @@ Vou utilizar as procedures de INSERT para cada tabela criada para alcançar o ob
 
 Com esse projeto criado e executado vou poder colocar projetos futuros em prática e cada vez mais aperfeiçoando o meu desempenho.
 
-Professor orientador: Wesley Neves.
+Professor: Wesley Neves.
 
 ## Link útil
 
