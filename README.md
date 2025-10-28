@@ -1,4 +1,4 @@
-# Mecanica_BD
+# Mecânica Banco de dados
 
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" align="left" width="160"/>
 
